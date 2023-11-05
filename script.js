@@ -2,7 +2,7 @@ const container = document.getElementById("container");
 const searchInput = document.getElementById("search-input");
 const searchButton = document.getElementById("search-button");
 
-const API_KEY = "AIzaSyAgrYxH2jdM4n2WTanlsSyZVp4BKnwnmaI";
+const API_KEY = "AIzaSyD6l43hQeWOe4qu3jMC47vthKR8kzPjeBw";
 const BASE_URL = "https://www.googleapis.com/youtube/v3";
 
 async function fetchVideo(searchQuery) {

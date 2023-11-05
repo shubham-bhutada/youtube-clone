@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyAgrYxH2jdM4n2WTanlsSyZVp4BKnwnmaI";
+const API_KEY = "AIzaSyD6l43hQeWOe4qu3jMC47vthKR8kzPjeBw";
 const BASE_URL = "https://www.googleapis.com/youtube/v3";
 const parentNode = document.getElementById("playframe");
 

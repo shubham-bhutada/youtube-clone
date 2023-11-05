@@ -92,7 +92,6 @@ nav {
   flex-wrap: wrap;
   overflow-y: scroll;
   padding: 20px;
-  height: fit-content;
 }
 .video {
   width: 275px;
